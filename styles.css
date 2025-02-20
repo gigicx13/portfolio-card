@@ -111,13 +111,19 @@ body {
   font-size: 16px;
   font-weight: 400;
 }
-
+.button-portifolio:hover{
+  border-radius: 12px;
+  border: 1px solid #FFF;
+  background: #A7AFCB;
+  box-shadow: 4px 3px 8px 0px rgba(0, 0, 0, 0.20);
+}
+.button-portifolio:hover .text-portifolio {
+  color: var(--branco-principal);
+}
 .button-git {
   border: 1px solid var(--cor-terciario);
   background: linear-gradient(90deg, rgba(167, 175, 203, 0.60) 0%, rgba(203, 147, 181, 0.60) 80.74%);
-  
 }
-
 .text-git {
   text-decoration: none;
   color: var(--branco-principal);
@@ -125,7 +131,15 @@ body {
   font-size: 16px;
   font-weight: 400;
 }
-
+.button-git:hover{
+  border-radius: 12px;
+  border: 1px solid #FFF;
+  background: #A7AFCB;
+  box-shadow: 4px 3px 8px 0px rgba(0, 0, 0, 0.20);
+}
+.button-git:hover .text-git {
+  color: var(--branco-principal);
+}
 .profile-picture {
   display: flex;
   align-items: center;
