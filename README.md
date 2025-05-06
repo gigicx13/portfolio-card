@@ -1,4 +1,4 @@
-# Portfólio Card- Gisella
+# Portfólio Card - Gisella
 
 Este é um projeto simples de cartão de apresentação pessoal, desenvolvido em HTML e CSS. Ele apresenta informações básicas sobre mim, Gisella, como desenvolvedora front-end e designer UX/UI, além de links para redes sociais e portfólio.
 
