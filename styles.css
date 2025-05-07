@@ -86,7 +86,7 @@ body {
   margin-left: 86px;
 }
 
-.button-portifolio,
+.button-portfólio,
 .button-git {
   display: flex;
   width: 140px;
@@ -99,25 +99,25 @@ body {
   text-align: center;
 }
 
-.button-portifolio {
+.button-portfólio {
   border: 1px solid var(--cor-secundario);
   background: var(--branco-principal);
 }
 
-.text-portifolio {
+.text-portfólio {
   text-decoration: none;
   color: var(--cor-secundario);
   font-family: var(--font-principal);
   font-size: 16px;
   font-weight: 400;
 }
-.button-portifolio:hover{
+.button-portfólio:hover{
   border-radius: 12px;
   border: 1px solid #FFF;
   background: #A7AFCB;
   box-shadow: 4px 3px 8px 0px rgba(0, 0, 0, 0.20);
 }
-.button-portifolio:hover .text-portifolio {
+.button-portfólio:hover .text-portfólio {
   color: var(--branco-principal);
 }
 .button-git {
