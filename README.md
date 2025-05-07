@@ -4,7 +4,7 @@ Este é um projeto simples de cartão de apresentação pessoal, desenvolvido em
 
 ## ✨ Prévia do Projeto
 
-🔗 [Acesse aqui a versão online](https://gigicx13.github.io/portifolio-card/)
+🔗 [Acesse aqui a versão online](https://gigicx13.github.io/portfolio-card/)
 
 ## 🎨 Design
 
